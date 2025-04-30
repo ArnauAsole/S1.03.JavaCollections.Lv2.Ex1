@@ -54,7 +54,7 @@ To run this project, you will need:
 2. **Clone the repository:**
 ```bash
 git clone https://github.com/ArnauAsole/S1.03.JavaCollections.Lv2.Ex1.git
-cd restaurant-hashset-java
+cd ArnauAsole/S1.03.JavaCollections.Lv2.Ex1
 Open the project in IntelliJ:
 
 Go to File → Open
